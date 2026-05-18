@@ -95,6 +95,24 @@ Additional business-ready dimensions were created, including:
 - Regional segmentation enabled more strategic market analysis and customer concentration evaluation.
 - Geographic enrichment created opportunities for future regional performance modeling.
 
+# Strategic Recommendations (Preliminary)
+
+Based on the current analysis, several preliminary business recommendations emerged:
+
+## Optimize Promotional Targeting
+Discounts and promo codes demonstrated limited impact on increasing average purchase value across customer segments. Future promotional strategies may benefit from more targeted segmentation rather than broad discount application.
+
+## Prioritize High-Value Customer Segments
+Customers aged 55+ generated the strongest overall revenue contribution across categories, suggesting opportunities for targeted retention, merchandising, and customer engagement strategies focused on older demographics.
+
+## Expand High-Performing Product Categories
+Footwear demonstrated strong average purchase value and customer satisfaction despite lower transaction volume, indicating potential growth opportunities through expanded assortment or targeted marketing initiatives.
+
+## Strengthen Regional Market Intelligence
+Regional segmentation revealed opportunities for more localized market analysis and future geographic enrichment modeling to better understand regional purchasing behavior and demographic concentration trends.
+
+## Continue Loyalty Optimization Analysis
+Medium-loyalty customers generated the highest aggregate revenue contribution, suggesting potential opportunities to further analyze loyalty progression and customer lifecycle behavior.
 ---
 
 # Future Enhancements
