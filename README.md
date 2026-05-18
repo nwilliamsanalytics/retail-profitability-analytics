@@ -95,6 +95,21 @@ Additional business-ready dimensions were created, including:
 - Regional segmentation enabled more strategic market analysis and customer concentration evaluation.
 - Geographic enrichment created opportunities for future regional performance modeling.
 
+
+---
+
+# Future Enhancements
+
+Planned future enhancements include:
+
+- Python-based customer lifecycle simulations
+- Predictive revenue and retention modeling
+- Geographic demographic enrichment
+- Monte Carlo forecasting simulations
+- Tableau executive dashboards
+- Executive presentation deck summarizing strategic recommendations
+
+---
 # Strategic Recommendations (Preliminary)
 
 Based on the current analysis, several preliminary business recommendations emerged:
@@ -113,18 +128,6 @@ Regional segmentation revealed opportunities for more localized market analysis 
 
 ## Continue Loyalty Optimization Analysis
 Medium-loyalty customers generated the highest aggregate revenue contribution, suggesting potential opportunities to further analyze loyalty progression and customer lifecycle behavior.
----
-
-# Future Enhancements
-
-Planned future enhancements include:
-
-- Python-based customer lifecycle simulations
-- Predictive revenue and retention modeling
-- Geographic demographic enrichment
-- Monte Carlo forecasting simulations
-- Tableau executive dashboards
-- Executive presentation deck summarizing strategic recommendations
 
 ---
 
