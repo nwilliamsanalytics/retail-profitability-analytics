@@ -84,9 +84,6 @@ Additional business-ready dimensions were created, including:
 [View Live Tableau Dashboard](https://public.tableau.com/views/ConsumerSpendingGeographicSalesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
-
-![Retail Profitability Dashboard](images/dashboard_preview.png)
-
 The dashboard provides executive-style visibility into:
 - Retail profitability trends
 - Regional and state-level sales performance
