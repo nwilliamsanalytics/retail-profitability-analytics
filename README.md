@@ -80,16 +80,18 @@ Additional business-ready dimensions were created, including:
 ## Interactive Tableau Dashboard
 
 ![Retail Profitability Dashboard](images/retail_profitability_dashboard.jpg)
-*Explore the live interactive Tableau dashboard below:
-[View Live Tableau Dashboard](https://public.tableau.com/views/ConsumerSpendingGeographicSalesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
+<sub><i>Explore the live interactive Tableau dashboard:</i> <a href="PASTE_TABLEAU_LINK_HERE">View Live Tableau Dashboard</a></sub>
 
-The dashboard provides executive-style visibility into:
+---
+
+### Dashboard Highlights
+
 - Retail profitability trends
 - Regional and state-level sales performance
-- Customer purchasing behavior
-- Subscriber vs. non-subscriber sales analysis
+- Customer purchasing behavior analysis
 - Product category performance KPIs
+- Executive-style KPI reporting and operational visibility
 
 Retail Profitability Dashboard
 
