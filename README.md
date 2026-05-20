@@ -80,7 +80,6 @@ Additional business-ready dimensions were created, including:
 ## Interactive Tableau Dashboard
 
 ![Retail Profitability Dashboard](images/retail_profitability_dashboard.jpg)
-
 <sub><i>Explore the live interactive Tableau dashboard:</i> <a href="PASTE_TABLEAU_LINK_HERE">View Live Tableau Dashboard</a></sub>
 
 ---
