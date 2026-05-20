@@ -79,6 +79,8 @@ Additional business-ready dimensions were created, including:
 
 ## Interactive Tableau Dashboard
 
+![Retail Profitability Dashboard](images/retail_profitability_dashboard.jpg)
+
 Explore the live interactive Tableau dashboard below:
 [View Live Tableau Dashboard](https://public.tableau.com/views/ConsumerSpendingGeographicSalesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
